@@ -25,24 +25,6 @@ reference and revision.
 | 09 | [Reporting and Communication](09-reporting-and-communication.md) | Report structure, risk scoring, remediation control frameworks. |
 | 10 | [Tool and Code Analysis](10-tool-and-code-analysis.md) | Cheat sheet of recon tools and vulnerability scanners covered in the course. |
 
-## 🗂️ Structure
-
-```text
-.
-├── README.md
-├── 01-planning-and-scoping.md
-├── 02-intro-to-ethical-hacking.md
-├── 03-information-gathering-and-vulnerability-scanning.md
-├── 04-social-engineering-attacks.md
-├── 05-exploiting-wired-and-wireless-networks.md
-├── 06-exploiting-application-based-vulnerabilities.md
-├── 07-mobile-iot-and-cloud-security.md
-├── 08-post-exploitation-techniques.md
-├── 09-reporting-and-communication.md
-├── 10-tool-and-code-analysis.md
-└── assets/
-    └── scapy-terminal-demo.png
-```
 
 ## 🧭 How These Notes Are Organized
 
@@ -59,7 +41,7 @@ Each module file follows the same layout:
 ## 📝 Notes on Content
 
 - These notes were originally taken while working through the course and
-  have since been corrected, restructured, and reformatted for clarity
+  have since been corrected, restructured, and reformatted by ai for clarity
   and easier GitHub reading.
 - Any personal identifiers from the original notes have been removed or
   replaced with generic placeholders.
